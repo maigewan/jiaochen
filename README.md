@@ -3,7 +3,7 @@ https://github.com/maigewan
 
 ![image](https://github.com/user-attachments/assets/d104cc50-e8db-4785-9d8c-2fc7ce2ca21d)
 
-服务器配置必须为：PHP 8.0
+服务器配置必须为：PHP 8.0     不需要数据库 不需要数据库 不需要数据库
 
 1：
 下载php.ini

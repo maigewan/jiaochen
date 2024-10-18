@@ -19,7 +19,7 @@ https://github.com/maigewan/jiaochen
 ![image](https://github.com/user-attachments/assets/18baff22-fc42-45bb-aa22-a68840af9f12)
 ![image](https://github.com/user-attachments/assets/1888b24a-d512-4e63-b88a-c2df2d77e47f)
 
-3：安装扩展
+3：安装扩展 sg15 
 
 ![image](https://github.com/user-attachments/assets/175c4f46-a762-4a10-873c-e9e023dd4651)
 

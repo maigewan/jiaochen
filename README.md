@@ -41,6 +41,10 @@ https://github.com/maigewan/jiaochen
 ![image](https://github.com/user-attachments/assets/5ee05bf6-e1eb-4e0d-9934-3bdc82cb3249)
 ![image](https://github.com/user-attachments/assets/fc5ac2dc-16d2-46fe-b2fa-4ebc8607d60d)
 
+tdk.txt里面的格式如下：
+
+域名|3|标题|关键词1,关键词2,关键词3|我是一段描|主优化词|
+
 ---------------------
 脚本执行命令为：
 /www/maigewan/1.sh.x

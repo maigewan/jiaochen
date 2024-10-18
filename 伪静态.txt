@@ -1,0 +1,22 @@
+location ~* \.(css|js|jpg|jpeg|png|gif|ico|woff|woff2|ttf|svg|eot)$ {
+    if ($uri ~* "^/news/") {
+        rewrite ^/news/(.*)$ /themes/$1 break;
+    }
+    try_files $uri /themes$uri =404;
+    access_log off;
+    expires 30d;
+}
+location / {
+    try_files $uri $uri/ @rewrite_html_to_php;
+}
+location = /token.json {
+    deny all;
+    allow 127.0.0.1;
+    satisfy any;
+}
+location @rewrite_html_to_php {
+    if ($uri ~* "^/news/") {
+        rewrite ^/news/(.*)\.html$ /themes/news/$1.php last;
+    }
+    rewrite ^/([^/]+)\.html$ /themes/$1.php last;
+}

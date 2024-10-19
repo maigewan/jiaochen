@@ -52,6 +52,7 @@ tdk.txt里面的格式如下：
 脚本执行命令为：
 
 cd /www/maigewan/
+
 base64 -d ./1.sh.b64 | bash
 
 这里的maigewan是你建的文件路径。

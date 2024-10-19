@@ -33,10 +33,7 @@ https://github.com/maigewan/jiaochen
 将脚本打包下载
 
 然后在服务器新建一个文件夹（用英文或者数字命名文件夹）
-
-![image](https://github.com/user-attachments/assets/25c8c7db-08d9-4144-a8bd-c9c1285867fd)
-
-
+![image](https://github.com/user-attachments/assets/d9a1fb31-99d3-4058-bd01-33d3c14654e7)
 
 ![image](https://github.com/user-attachments/assets/b4969eb4-a50a-415f-a3dc-d1ac4efb48ea)
 

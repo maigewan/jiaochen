@@ -60,3 +60,11 @@ base64 -d /www/maigewan/1.sh.b64 | bash
 
 
 ![image](https://github.com/user-attachments/assets/d90cf0fc-9bc8-4e59-89cd-36c58aaed337)
+
+伪静态规则在这里：
+
+https://github.com/maigewan/jiaochen/tree/main
+
+
+![image](https://github.com/user-attachments/assets/01a1e0a6-8086-43da-b0f7-036a79c44cd5)
+

@@ -32,6 +32,8 @@ https://github.com/maigewan/jiaochen
 
 将脚本打包下载
 
+https://github.com/maigewan/jiaoben
+
 然后在服务器新建一个文件夹（用英文或者数字命名文件夹）
 ![image](https://github.com/user-attachments/assets/d9a1fb31-99d3-4058-bd01-33d3c14654e7)
 
